@@ -11,6 +11,11 @@
       <source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/steam">
       <img alt="GitHub" title="GitHub" height="48" width="48" src="https://cdn.simpleicons.org/steam"></picture></a>
       <a href="https://steamcommunity.com/profiles/76561198739272999">
+        <a href="https://mail.google.com/mail/?view=cm&to=seuemail@gmail.com">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/gmail">
+      <img alt="GitHub" title="GitHub" height="48" width="48" src="https://cdn.simpleicons.org/gmail"></picture></a>
+      <a href="https://mail.google.com/mail/?view=cm&to=seuemail@gmail.com">
         </p>
 
 <p align="center">
