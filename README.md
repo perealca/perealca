@@ -24,9 +24,6 @@
        </p>
 
 <p align="center">
-      <img alt="A guy" title="A guy" height="480" width="480" src="https://i.pinimg.com/originals/f0/f0/d9/f0f0d932d6e39c7af5aa305cbd8da735.gif"></picture></a>
-        </p>
-        <p align="center">
-      <img alt="=D" title="=D" height="480" width="480" src="https://media1.tenor.com/m/ukUeo6XcejEAAAAC/osaka-spin.gif"></picture></a>
+      <img alt="A guy" title="A guy" height="480" width="480" src="https://media1.tenor.com/m/ukUeo6XcejEAAAAC/osaka-spin.gif"></picture></a>
         </p>
       
