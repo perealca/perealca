@@ -24,6 +24,6 @@
        </p>
 
 <p align="center">
-      <img alt="=D" title="=D" height="480" width="480" src="https://media1.tenor.com/m/ukUeo6XcejEAAAAC/osaka-spin.gif"></picture></a>
+      <img alt="=D(Fica melhor no modo claro!)" title="=D(Fica melhor no modo claro!)" height="480" width="480" src="https://media1.tenor.com/m/ukUeo6XcejEAAAAC/osaka-spin.gif"></picture></a>
         </p>
       
