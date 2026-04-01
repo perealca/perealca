@@ -24,6 +24,6 @@
        </p>
 
 <p align="center">
-      <img alt="=D(Fica melhor no modo claro!)" title="=D(Fica melhor no modo claro!)" height="480" width="480" src="https://media1.tenor.com/m/ukUeo6XcejEAAAAC/osaka-spin.gif"></picture></a>
+      <img alt="Ness (Earthbound)" title="Ness (Earthbound)" height="480" width="480" src="https://www.clipartmax.com/png/full/361-3613627_pickles-clipart-pixel-art-ness-earthbound-sprite.png"></picture></a>
         </p>
       
