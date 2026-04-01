@@ -8,7 +8,7 @@
  <a href="https://github.com/perealca">
         <a href="https://steamcommunity.com/profiles/76561198739272999">
     <picture>
-      <source media="(prefers-color-scheme: white)" srcset="https://cdn.simpleicons.org/steam">
+      <source media="(prefers-color-scheme: dark blue)" srcset="https://cdn.simpleicons.org/steam">
       <img alt="Steam" title="Steam" height="48" width="48" src="https://cdn.simpleicons.org/steam/white"></picture></a>
       <a href="https://steamcommunity.com/profiles/76561198739272999">
    <a href="mailto:perealca17@gmail.com">
