@@ -4,12 +4,18 @@
 <tr>
   <td>
     <a href="https://github.com/perealca">
-      <img alt="GitHub" height="48" width="48" src="https://cdn.simpleicons.org/github">
+      <picture>
+        <source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/github/white">
+        <img alt="GitHub" height="48" width="48" src="https://cdn.simpleicons.org/github">
+      </picture>
     </a>
   </td>
   <td>
     <a href="https://steamcommunity.com/profiles/76561198739272999">
-      <img alt="Steam" height="48" width="48" src="https://cdn.simpleicons.org/steam">
+      <picture>
+        <source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/steam/white">
+        <img alt="Steam" height="48" width="48" src="https://cdn.simpleicons.org/steam">
+      </picture>
     </a>
   </td>
   <td>
