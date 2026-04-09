@@ -1,6 +1,5 @@
 <h1 align="center">Just a programmer</h1>
 
-<!-- Ícones de links centralizados usando tabela para remover espaçamentos -->
 <table align="center">
 <tr>
   <td>
@@ -31,7 +30,6 @@
 </tr>
 </table>
 
-<!-- Imagem centralizada do Ness -->
 <p align="center">
   <img alt="Ness (Earthbound)" title="Ness (Earthbound)" height="360" width="360" src="https://www.clipartmax.com/png/full/361-3613627_pickles-clipart-pixel-art-ness-earthbound-sprite.png">
 </p>
