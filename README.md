@@ -1,4 +1,4 @@
-<h1 align="center">Just a Programmer</h1>
+<h1 align="center">Just a programmer</h1>
 
 <!-- Ícones de links centralizados usando tabela para remover espaçamentos -->
 <table align="center">
