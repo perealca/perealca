@@ -37,5 +37,5 @@
 </table>
 
 <p align="center">
-  <img alt="Ness (Earthbound)" title="Ness (Earthbound)" height="360" width="360" src="https://www.clipartmax.com/png/full/361-3613627_pickles-clipart-pixel-art-ness-earthbound-sprite.png">
+  <img alt="Ness (Earthbound)" title="Ness (Earthbound)" height="750" width="375" src="https://pbs.twimg.com/media/FuITccKWIAABADT?format=png&name=medium">
 </p>
