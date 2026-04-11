@@ -37,5 +37,5 @@
 </table>
 
 <p align="center">
-  <img alt="Ness (Earthbound)" title="Ness (Earthbound)" height="750" width="375" src="https://pbs.twimg.com/media/FuITccKWIAABADT?format=png&name=medium">
+  <img alt="Mother 3 Universe" title="Mother 3 Universe" height="750" width="375" src="https://pbs.twimg.com/media/FuITccKWIAABADT?format=png&name=medium">
 </p>
