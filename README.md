@@ -10,6 +10,7 @@
       </picture>
     </a>
   </td>
+
   <td>
     <a href="https://steamcommunity.com/profiles/76561198739272999">
       <picture>
@@ -18,24 +19,26 @@
       </picture>
     </a>
   </td>
+
   <td>
     <a href="mailto:perealca17@gmail.com">
       <img alt="Gmail" height="48" width="48" src="https://cdn.simpleicons.org/gmail">
     </a>
   </td>
+
   <td>
     <a href="https://open.spotify.com/user/31tzmat4smlqqiy5irfyhrke3xfi?si=fe71b8f788014cea">
       <img alt="Spotify" height="48" width="48" src="https://cdn.simpleicons.org/spotify">
-    </a>
-  </td>
-  <td>
-    <a href="https://orcid.org/0009-0008-5514-5713">
-      <img alt="ORCID" height="48" width="48" src="https://cdn.simpleicons.org/orcid">
     </a>
   </td>
 </tr>
 </table>
 
 <p align="center">
-  <img alt="Mother 3 Universe" title="Mother 3 Universe" height="750" width="375" src="https://pbs.twimg.com/media/FuITccKWIAABADT?format=png&name=medium">
+  <img 
+    alt="Mother 3 Universe" 
+    title="Mother 3 Universe" 
+    src="https://pbs.twimg.com/media/FuITccKWIAABADT?format=png&name=medium"
+    width="300"
+  >
 </p>
