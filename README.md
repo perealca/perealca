@@ -36,9 +36,9 @@
 
 <p align="center">
   <img 
-    alt="Mother 3 Universe" 
-    title="Mother 3 Universe" 
-    src="https://pbs.twimg.com/media/FuITccKWIAABADT?format=png&name=medium"
+    alt="Ness (Earthbound)" 
+    title="Ness (Earthbound)" 
+    src="https://static.wikia.nocookie.net/topstrongest/images/1/1f/Ness-Biclycle.png/revision/latest?cb=20210412072842"
     width="300"
   >
 </p>
