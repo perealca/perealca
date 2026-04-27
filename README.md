@@ -3,10 +3,9 @@
 <table align="center">
 <tr>
   <td>
-    <a href="https://github.com/perealca">
+    <a href="https://www.xbox.com/pt-BR/play/user/Perealca3634">
       <picture>
-        <source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/github/white">
-        <img alt="GitHub" height="48" width="48" src="https://cdn.simpleicons.org/github">
+        <img alt="Xbox" height="48" width="48" src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Xbox_one_logo.svg/1280px-Xbox_one_logo.svg.png">
       </picture>
     </a>
   </td>
