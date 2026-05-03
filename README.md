@@ -11,6 +11,25 @@
   </td>
 
   <td>
+    <a href="https://steamcommunity.com/profiles/76561198739272999/">
+      <picture>
+        <!-- Modo escuro -->
+        <source 
+          srcset="https://cdn.simpleicons.org/steam/ffffff" 
+          media="(prefers-color-scheme: dark)"
+        >
+        <!-- Modo claro (padrão) -->
+        <img 
+          alt="Steam" 
+          height="48" 
+          width="48" 
+          src="https://cdn.simpleicons.org/steam/000000"
+        >
+      </picture>
+    </a>
+  </td>
+
+  <td>
     <a href="https://open.spotify.com/user/31tzmat4smlqqiy5irfyhrke3xfi?si=fe71b8f788014cea">
       <img alt="Spotify" height="48" width="48" src="https://cdn.simpleicons.org/spotify">
     </a>
