@@ -13,12 +13,10 @@
   <td>
     <a href="https://steamcommunity.com/profiles/76561198739272999/">
       <picture>
-        <!-- Modo escuro -->
         <source 
           srcset="https://cdn.simpleicons.org/steam/ffffff" 
           media="(prefers-color-scheme: dark)"
         >
-        <!-- Modo claro (padrão) -->
         <img 
           alt="Steam" 
           height="48" 
@@ -28,12 +26,13 @@
       </picture>
     </a>
   </td>
+</table>
 
 <p align="center">
   <img 
     alt="Ness (Earthbound)" 
     title="Ness (Earthbound)" 
     src="https://static.wikia.nocookie.net/topstrongest/images/1/1f/Ness-Biclycle.png/revision/latest?cb=20210412072842"
-    width="200"
+    width="150"
   >
 </p>
