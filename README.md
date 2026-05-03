@@ -29,14 +29,6 @@
     </a>
   </td>
 
-  <td>
-    <a href="https://open.spotify.com/user/31tzmat4smlqqiy5irfyhrke3xfi?si=fe71b8f788014cea">
-      <img alt="Spotify" height="48" width="48" src="https://cdn.simpleicons.org/spotify">
-    </a>
-  </td>
-</tr>
-</table>
-
 <p align="center">
   <img 
     alt="Ness (Earthbound)" 
