@@ -13,8 +13,8 @@
 
 <p align="center">
   <img 
-    alt="Ness (Earthbound)" 
-    title="Ness (Earthbound)" 
+    alt="Kazuma Kiryu (Yakuza)" 
+    title="Kazuma Kiryu (Yakuza)" 
     src="https://i.imgur.com/RjTpiEW.png"
     width="300"
   >
