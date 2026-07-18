@@ -9,30 +9,13 @@
       </picture>
     </a>
   </td>
-
-  <td>
-    <a href="https://steamcommunity.com/profiles/76561198739272999/">
-      <picture>
-        <source 
-          srcset="https://cdn.simpleicons.org/steam/ffffff" 
-          media="(prefers-color-scheme: dark)"
-        >
-        <img 
-          alt="Steam" 
-          height="48" 
-          width="48" 
-          src="https://cdn.simpleicons.org/steam/000000"
-        >
-      </picture>
-    </a>
-  </td>
 </table>
 
 <p align="center">
   <img 
     alt="Ness (Earthbound)" 
     title="Ness (Earthbound)" 
-    src="https://static.wikia.nocookie.net/topstrongest/images/1/1f/Ness-Biclycle.png/revision/latest?cb=20210412072842"
-    width="150"
+    src="https://i.imgur.com/RjTpiEW.png"
+    width="300"
   >
 </p>
