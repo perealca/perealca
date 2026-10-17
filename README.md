@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=16&duration=3000&pause=1200&color=66C0F4&center=true&vCenter=true&width=760&height=60&lines=JUST+A+PROGRAMMER;JAVA+BACKEND+DEVELOPER;APIS+REST+%7C+SPRING+BOOT" alt="Just a programmer">
+<img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=16&duration=3000&pause=1200&color=66C0F4&center=true&vCenter=true&width=460&height=60&lines=JUST+A+PROGRAMMER" alt="Just a programmer">
 
 <br>
 
